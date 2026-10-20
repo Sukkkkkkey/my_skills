@@ -1,0 +1,4 @@
+interface:
+  display_name: "实验结果记录"
+  short_description: "统一实验总览与逐样本结果布局，保留研究结论并核验可复现配置和指标"
+  default_prompt: "使用 $experiment-ledger 整理当前项目的实验结果工作簿：统一总览与逐样本表，记录配置和结论，并从原始结果核实指标。"
