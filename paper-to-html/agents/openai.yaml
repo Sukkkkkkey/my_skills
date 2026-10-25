@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文精读 HTML"
+  short_description: "生成十分钟内可读的论文 HTML：英文摘要、方法提炼、实验证据与讨论"
+  default_prompt: "使用 $paper-to-html 制作每页预估不超过 10 分钟的论文阅读稿：保留论文信息与英文原文 Abstract，精炼 Method 和 Experiment，加入有依据的 Discussion，并完成内容与阅读预算自审。"
